@@ -1,0 +1,505 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the imperial proceedings against the Turks with an exact diary of the siege of Newheusel and its taking : as also a relation of all the noted performances of the imperialists in all parts, from the beginning of this summers campagne, till the 27th of August / as it was taken by Mr. Travestin ... ; with an exact map of the town, and the works of the besiegers.</title>
+            <author>Travestin, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63083</idno>
+            <idno type="STC">Wing T2067</idno>
+            <idno type="STC">ESTC R10565</idno>
+            <idno type="EEBO-CITATION">13292612</idno>
+            <idno type="OCLC">ocm 13292612</idno>
+            <idno type="VID">98855</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63083)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98855)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 440:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the imperial proceedings against the Turks with an exact diary of the siege of Newheusel and its taking : as also a relation of all the noted performances of the imperialists in all parts, from the beginning of this summers campagne, till the 27th of August / as it was taken by Mr. Travestin ... ; with an exact map of the town, and the works of the besiegers.</title>
+                  <author>Travestin, Mr.</author>
+               </titleStmt>
+               <extent>[2], 56, [2] p. : 1 folded map  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. Crouch ... and John Lawrence ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This may be printed. Sept. 15, 1685. R.L.S."</note>
+                  <note>Advertisements: p. [1]-[2] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turks --  Slovakia --  History.</term>
+               <term>Austro-Turkish War, 1683-1699 --  Personal narratives.</term>
+               <term>Nové Zámky (Czechoslovakia) --  History --  Siege, 1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98855:1"/>
+            <pb facs="tcp:98855:1" rendition="simple:additions"/>
+            <p>AN ACCOUNT OF THE Imperial Proceedings Againſt the TURKS: With an exact DIARY of the <hi>Siege of Newheuſel,</hi> And its Taking: As alſo a Relation of all the noted Performances of the Imperialiſts in all Parts, from the beginning of this Summers Campagne, till the 27th of <hi>August.</hi>
+            </p>
+            <p>As it was taken by Mr. <hi>Traveſtin,</hi> an Engliſh Gentleman, who was all the while Reſident in the Army at <hi>Newheuſel,</hi> and now in the Imperial Army; and by him ſent by way of Letter to a Perſon of Honour of this Kingdom.</p>
+            <p>With an exact MAP of the Town, and the Works of the Beſiegers.</p>
+            <floatingText xml:lang="eng" type="license">
+               <body>
+                  <p>This may be Printed.</p>
+                  <closer>
+                     <date>
+                        <hi>Sept.</hi> 15. 1685.</date>
+                     <signed>R. L. S.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Sam. Crouch</hi> at the Flower-de-luce in <hi>Cornhil,</hi> and <hi>John Lawrence</hi> at the Angel in the <hi>Poultry,</hi> over againſt the Compter. 1685.</p>
+         </div>
+         <div type="illustration">
+            <p>
+               <figure>
+                  <pb facs="tcp:98855:2" rendition="simple:additions"/>
+                  <pb facs="tcp:98855:3"/>
+                  <pb facs="tcp:98855:4"/>
+                  <head>Explanation of y<hi rend="sup">e</hi> Letters &amp; Figures</head>
+                  <p>
+                     <list>
+                        <item>
+                           <hi>A.</hi> The works begun and carried on by<hi rend="sup">e</hi> Impertalists.</item>
+                        <item>
+                           <hi>B.</hi> The works carried on by the Lunenburghers.</item>
+                        <item>
+                           <hi>C.</hi> The works and entrenchments of y<hi rend="sup">e</hi> Bavarians.</item>
+                        <item>
+                           <hi>D.</hi> Severall of the first raised Batterys.</item>
+                        <item>
+                           <hi>E.</hi> The Bastion cheifly attackt by<hi rend="sup">e</hi> Imperialists.</item>
+                        <item>H. The bridge &amp; Curtain heaven y<hi rend="sup">e</hi> Bastion E and y<hi rend="sup">e</hi> Bastion <hi>27.</hi>
+                        </item>
+                        <item>g.h.i.k &amp; l to w.w. are Severall trenches &amp; Batterys of y<hi rend="sup">e</hi> Christians.</item>
+                        <item>
+                           <hi>X.</hi> A little plain on east side y<hi rend="sup">e</hi> Town where anetable battle was fought.</item>
+                        <item>
+                           <hi>Z.</hi> The other Cheif attackt Bastion by y<hi rend="sup">e</hi> Lunenburghers.</item>
+                        <item>
+                           <hi>1.2.3.</hi> Severall Redoubts and Batterys.</item>
+                        <item>
+                           <hi>4.</hi> y<hi rend="sup">e</hi> left hand Northren Bastion near <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> they let water out of the Ditch.</item>
+                        <item>
+                           <hi>5.6.</hi> Entrenchments and Batterys of the Bavarians.</item>
+                        <item>
+                           <hi>7.</hi> Severall Gallerys made over y<hi rend="sup">e</hi> ditch in order to place y<hi rend="sup">e</hi> Miners.</item>
+                        <item>
+                           <hi>10.18.</hi> y<hi rend="sup">e</hi> Canall that carried y<hi rend="sup">e</hi> water out of ditch.</item>
+                        <item>
+                           <hi>11.</hi> A Batterie of <hi>16</hi> peices of Cannon.</item>
+                        <item>
+                           <hi>17.18.19.</hi> the <hi>3</hi> Southern Bastions attackt by y<hi rend="sup">e</hi> Bavarians</item>
+                        <item>
+                           <hi>13.</hi> The <hi>2</hi> bridges and gates.</item>
+                        <item>
+                           <hi>14. 3</hi> Trees on which were heads of Christians.</item>
+                        <item>
+                           <hi>15.</hi> The River Hewtra.</item>
+                        <item>
+                           <hi>16.</hi> Severall gardens on the East side y<hi rend="sup">e</hi> town.</item>
+                        <item>
+                           <hi>20.</hi> Draw bridges.</item>
+                     </list>
+                  </p>
+                  <pb facs="tcp:98855:5"/>
+                  <p> 
+                     <hi>NEWHEUSELL</hi> as it was beseiged by the IMPERIALISTS Iuly <hi>7. 1685.</hi> And taken by aſsault Aug. <hi>1685.</hi>
+                  </p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:98855:6"/>
+            <pb n="1" facs="tcp:98855:6"/>
+            <head>AN ACCOUNT OF The Siege of <hi>Newheuſel,</hi> &amp;c.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>I Have received your laſt, wherein you were pleaſed to command me to give you an ex<g ref="char:EOLhyphen"/>act account of the Proceedings againſt the <hi>Turks,</hi> and the Siege of <hi>Newheuſel:</hi> my ambi<g ref="char:EOLhyphen"/>tion to ſerve your Honour had put me upon it before, though the ſence of my weakneſs for ſuch a Performance, made me proceed with a great deal of caution and fear, eſpecially it being to be pre<g ref="char:EOLhyphen"/>ſented to your Honour, who has ſo admirable an inſight into all Warlike Affairs; but your Com<g ref="char:EOLhyphen"/>mands gave new life to my Proceedings, not que<g ref="char:EOLhyphen"/>ſtioning but your Native Goodneſs would pardon thoſe Faults your Commands were the occaſion of. I therefore humbly preſent theſe my rude Obſer<g ref="char:EOLhyphen"/>vations to you, being an account of the Siege, the manner of its taking, with a Map of the place, and the Beſiegers Entrenchments, as performed. In
+<pb n="2" facs="tcp:98855:7"/>my laſt,<note place="margin">June.</note> I acquainted you of the Imperial Armies Encampment between <hi>Newheuſel</hi> and <hi>Barkan,</hi> and of the Duke of <hi>Lorrain</hi>'s arrival at the Camp, on the 13th of <hi>June;</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="(13.)"/> after which, having called a Coun<g ref="char:EOLhyphen"/>cil of War, they began to think of a method for their Proceedings: and at firſt it was reſolved to attack <hi>Novigrad,</hi> to cut off by that means the Com<g ref="char:EOLhyphen"/>munication between <hi>Buda</hi> and <hi>Newheuſel;</hi> and af<g ref="char:EOLhyphen"/>terwards, formally to beſiege <hi>Newheuſel.</hi> On the 17th Col. <hi>Heuſler</hi> venturing as far as <hi>Peſt</hi> with 1000 Horſe, <milestone type="tcpmilestone" unit="unspecified" n="(17.)"/> met a Party of <hi>Turks</hi> of about 500 Horſe, who upon ſight of him, retired in great haſte and diſorder. <milestone type="tcpmilestone" unit="unspecified" n="(24.)"/> The Duke of <hi>Lorrain</hi> could not yet proceed to action, for want of the Artillery and the great Carriage of Proviſions, which he expected e<g ref="char:EOLhyphen"/>very day. In the mean time the command of the Army was thus ordered, the Duke of <hi>Lorrain</hi> being General, and having abſolute power to proceed in the War as he pleaſed.</p>
+            <p>Prince <hi>Waldeck</hi> was made Commander of the Foot, as Mareſchal <hi>de Camp</hi> General, and had un<g ref="char:EOLhyphen"/>der him the Duke <hi>de Croy,</hi> who was conſtituted Ge<g ref="char:EOLhyphen"/>neral of the Artillery; the Prince of <hi>Newbourg</hi> Great Maſter of the <hi>Teutonick</hi> Order, the Count <hi>de Souches,</hi> and the Count <hi>de Scherffenberg,</hi> to be in quality of Major-Generals.</p>
+            <p>The Count <hi>de Caprara</hi> to command the Horſe as Mareſchal <hi>de Camp</hi> General, and under him Prince <hi>Louis</hi> of <hi>Baden</hi> one General of the Horſe,
+<pb n="3" facs="tcp:98855:7"/>and the Count <hi>de Dunewaldt</hi> as another; the Count <hi>de Palfi</hi> to be Lieutenant-General; Count <hi>Taff,</hi> the Baron <hi>de Mercy,</hi> the Count <hi>de Lodron,</hi> and the Count <hi>de Stiram,</hi> Major-Generals.</p>
+            <p>The Prince <hi>de Salms</hi> to command the Cavalry in <hi>Croatia;</hi> and the Marqueſs <hi>de Lavergne,</hi> the In<g ref="char:EOLhyphen"/>fantry under General <hi>Leſlie.</hi>
+            </p>
+            <p>The Emperours Forces that are in <hi>
+                  <g ref="char:V">Ʋ</g>pper Hun<g ref="char:EOLhyphen"/>gary</hi> to act againſt the Rebels, are commanded by General <hi>Schultz.</hi>
+            </p>
+            <p>We had an account at the Camp, <milestone type="tcpmilestone" unit="unspecified" n="(25.)"/> that a Party of <hi>Huſſars</hi> being abroad towards <hi>Buda,</hi> had met 200 Janizaries, whom they defeated, killing the greateſt part of them upon the place, and taking the reſt, with the Aga that commanded them, Pri<g ref="char:EOLhyphen"/>ſoners: That this Officer had Letters from the Vi<g ref="char:EOLhyphen"/>ſier of <hi>Buda</hi> to the Baſſa of <hi>Newheuſel,</hi> wherein he exhorted the ſaid Baſſa, in caſe he be attacked, to defend the place to the laſt, and aſſured him of Relief.</p>
+            <p>We had alſo an account, that General <hi>Schultz</hi> had made himſelf Maſter of the Fortreſs of <hi>Caſna<g ref="char:EOLhyphen"/>hauka,</hi> and that moſt of the <hi>Hungarians</hi> of that Garriſon were now in the Emperours ſervice.</p>
+            <p>Whilſt theſe things were doing abroad, the Duke of <hi>Lorrain</hi> every day adviſing with his Council of War, at laſt changed his former reſo<g ref="char:EOLhyphen"/>lution of attacking <hi>Novigrad,</hi> thinking it to be of little advantage towards the Siege of <hi>Newheuſel,</hi>
+               <pb n="4" facs="tcp:98855:8"/>and that it would take up vaſt time, being ſo far off: Beſides, not hearing any certainty of the <hi>Turks</hi> being abroad in any conſiderable Body, and finding his own Forces able to repulſe a greater Army than the <hi>Turks</hi> could probably bring into the Field, and continue the Siege at the ſame time, he reſolved immediately to attack <hi>Newheuſel.</hi>
+            </p>
+            <p>However, <milestone type="tcpmilestone" unit="unspecified" n="(28.)"/> on <hi>June</hi> the 28th the Duke of <hi>Lor<g ref="char:EOLhyphen"/>rain</hi> took with him 3000 Horſe, and went to ob<g ref="char:EOLhyphen"/>ſerve the ſcituation of <hi>Novigrad;</hi> out of which a ſmall Party, without his Highneſs's order, advan<g ref="char:EOLhyphen"/>cing too near the place, they were attacked by ſome Janizaries, who were ambuſcaded in an In<g ref="char:EOLhyphen"/>cloſure, and ſeveral of them wounded, among which were two French Voluntiers.</p>
+            <p>Immediately upon his return, <milestone type="tcpmilestone" unit="unspecified" n="(30.)"/> in purſuance of his foreſaid Reſolution, he commanded the Forces that formed the Blockade; to begin the Lines of Circumvallation.</p>
+            <p>
+               <hi>June</hi> the 30th there was taken ſeveral Perſons that came out of <hi>Newheuſel;</hi> and amongſt the reſt, an Officer who in the diſgniſe of a Peaſant was going to <hi>Buda</hi> with Letters from the Baſſa of <hi>New<g ref="char:EOLhyphen"/>heuſel,</hi> who therein tells the Viſier of <hi>Buda</hi> what diſtreſs the Garriſon was in; that they had eaten the Fleſh of Horſes, Dogs, <hi>&amp;c.</hi> ſince the beginning of the month and that they could not defend the place without a ſpeedy Relief.</p>
+            <p>This day alſo an Officer, who came from <hi>Buda</hi>
+               <pb n="5" facs="tcp:98855:8"/>with 100 men, endeavoured to put himſelf into <hi>Newheuſel;</hi> but he and moſt with him were ta<g ref="char:EOLhyphen"/>ken.</p>
+            <p>On the firſt of <hi>July</hi> two Chriſtians who got out of the Town,<note place="margin">July <hi>1.</hi>
+               </note> were brought to the Duke of <hi>Lor<g ref="char:EOLhyphen"/>rain,</hi> who aſſured him that the Garriſon conſiſted not of above 1500 men at moſt, and that they were in want of all manner of Proviſions.</p>
+            <p>
+               <hi>July</hi> the 4th our Army began a ſlow march to<g ref="char:EOLhyphen"/>wards <hi>Newheuſel;</hi> which it had done ſooner, <milestone type="tcpmilestone" unit="unspecified" n="(4.)"/> but that the Ordnance was wanting. However, the Lines of Circumvallation and Contravallation went on apace.</p>
+            <p>
+               <hi>July</hi> the 5th the Duke of <hi>Lorrain</hi> ſent Order to the ſeveral Troops, <milestone type="tcpmilestone" unit="unspecified" n="(5.)"/> to march up to us from <hi>Bar<g ref="char:EOLhyphen"/>kan, Lewentz,</hi> and <hi>Newtra.</hi>
+            </p>
+            <p>
+               <hi>July</hi> the 6th we encamped all together on the fide of a little River called <hi>Sohit,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="(6.)"/> that falls into the <hi>Danube</hi> near <hi>Comorra;</hi> which we paſſed on the 7th, and the ſame day came before <hi>Newheuſel.</hi>
+            </p>
+            <milestone type="tcpmilestone" unit="unspecified" n="(7.)"/>
+            <p>The true ancient name of this place is <hi>Oywar,</hi> though the <hi>Germans</hi> call it <hi>Newheuſel;</hi> it is a large Fort; and ſeituated upon a firm foundation, though the Plain about it is full of Moras, and Fenny Grounds, which makes the Town almoſt inacceſ<g ref="char:EOLhyphen"/>ſible, as its ſtrength is invincible, having ſix Baſtions lined with very good Stone work, without which there is a vaſt Ditch of about ten foot deep, and twenty broad. The River <hi>Newtra</hi> is on the Eaſt
+<pb n="6" facs="tcp:98855:9"/>ſide, not above a Piſtol-ſhot from it: On the South it has the <hi>Danube,</hi> at about two furlongs di<g ref="char:EOLhyphen"/>ſtance; and on the Weſt it has the River <hi>Schit.</hi>
+            </p>
+            <p>This City, after a long Siege, was ſurrendred to the <hi>Turks</hi> upon fair Terms, <hi>Anno</hi> 1663, and has continued in their hands ever ſince.</p>
+            <p>In <hi>May</hi> 1683. the Duke of <hi>Lorrain</hi> being Ge<g ref="char:EOLhyphen"/>neral of the Imperial Forces, reſolved upon the Siege of this place at that time, with the approba<g ref="char:EOLhyphen"/>tion of the other Generals, and particular aſſiſt<g ref="char:EOLhyphen"/>ance of Count <hi>Staremberg,</hi> then Maſter-General of the Ordnance, who thereupon venturing very far to view the ſcituation of the Town, was in great danger of a Shot from the <hi>Turks,</hi> who played ve<g ref="char:EOLhyphen"/>ry warmly upon the Imperialiſts. However, the Attack was carried on by him with ſo much Vi<g ref="char:EOLhyphen"/>gour and Succeſs, that the Imperialiſts made them<g ref="char:EOLhyphen"/>ſelves Maſters of part of the Subburbs, and of a Building that had formerly been made uſe of for a Church; into which Count <hi>Staremberg</hi> having ordered fifty men with a Lieutenant, and Count of <hi>Herberſtein,</hi> Major of the Regiment of <hi>Scherf<g ref="char:EOLhyphen"/>fenberg,</hi> bringing with him, by miſtake, 150, filled the Church ſo full, that they could not turn themſelves in it, much leſs uſe their Arms, ſo that they were forced to break down the Benches and Seats to make room for themſelves; which occa<g ref="char:EOLhyphen"/>ſioning a great Noiſe and Confuſion, it happened that ſome of the Imperialiſts that came to
+<pb n="7" facs="tcp:98855:9"/>ſtrengthen the Party, hearing Noiſe and Diſor<g ref="char:EOLhyphen"/>der in the Church, and believing the Enemy to be there, made ſeveral Diſcharges upon their own men; by one of which, Captain <hi>Silber<g ref="char:EOLhyphen"/>berg</hi> was killed, as were ſeveral others by the Shot of the <hi>Turks.</hi> In which Action Captain <hi>Craus</hi> of the Regiment of <hi>Staremberg,</hi> who ſerved as Adjutant to the General, and Count <hi>Taxis,</hi> were alſo killed; and Count <hi>Kobb</hi> Lieu<g ref="char:EOLhyphen"/>tenant-Colonel of the Regiment of <hi>Beck</hi> woun<g ref="char:EOLhyphen"/>ded, whereof he ſoon after died at <hi>Presburg.</hi> The Grand Viſier's coming with ſo numerous an Army, with which he ſoon after beſieged <hi>Vienna,</hi> was the occaſion of the raiſing of the Siege at that time.</p>
+            <p>But now we reſolved to purſue it cloſer, and to that end to have three Attacks: one by the Imperial Troops, <milestone type="tcpmilestone" unit="unspecified" n="(7.)"/> under the Duke of <hi>Lorrain;</hi> another by the <hi>Bavarian</hi> Troops, commanded under the Duke of <hi>Lorrain</hi> by the Count <hi>de Serini;</hi> and the third by the Troops of <hi>Lunenburg,</hi> commanded by Monſieur <hi>Chauvet.</hi>
+            </p>
+            <p>This day we took ſeveral Priſoners, who aſ<g ref="char:EOLhyphen"/>ſured us that the Garriſon conſiſted yet of Eighteen hundred or Two thouſand reſolute men, and that they had a great many Cannon in the place. This Evening the Duke of
+<pb n="8" facs="tcp:98855:10" rendition="simple:additions"/>
+               <hi>Lorrain,</hi> accompanied with divers Prince and General Officers, went very near the place to obſerve it; which the Beſiege obſerving, fi<g ref="char:EOLhyphen"/>red very fiercely upon them with their Can<g ref="char:EOLhyphen"/>non, <milestone type="tcpmilestone" unit="unspecified" n="(7.)"/> but to very little purpoſe; onely a Ser<g ref="char:EOLhyphen"/>vant of the Princes <hi>de Conti</hi> was killed, who being a little diſtant from the reſt of the Company, had his head taken off by a Cannon-Bullet.</p>
+            <p>This night we took another Deferter, who told us, that the Beſieged had broke one of their greateſt Pieces of Ordnance, which had killed <hi>John de Souches,</hi> who was formerly a Chriſtian, and now their chief Cannonier, with five more. He told us further, That they wanted Proviſions, and that the Baſſa kept his Souldiers in heart, by aſſuring them, that the Se<g ref="char:EOLhyphen"/>raſquier is marching with a hundred thouſand men to relieve them.</p>
+            <p>
+               <hi>July</hi> the 8th the Troops of the Princes of <hi>Lunenburg,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="(8.)"/> commanded by Monſieur <hi>Chau<g ref="char:EOLhyphen"/>vet,</hi> came up to us with their Artillery; theſe were in all about Twelve thouſand men, and by the Duke of <hi>Lorrain</hi>'s order were encam<g ref="char:EOLhyphen"/>ped on a Line on the left hand the Imperialiſts, being on the North part of the Town, to<g ref="char:EOLhyphen"/>wards the River <hi>Newtra</hi> at (B) the Imperial
+<pb n="9" facs="tcp:98855:10"/>Army deſigning to proceed with their Attack at (A).</p>
+            <p>
+               <hi>July</hi> the 9th the <hi>Bavarian</hi> Troops arrived here, commanded by the Count <hi>de Serini;</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="(9.)"/> theſe were in all about Ten thouſand men, and were by the Dukes order placed on the right ſide the Imperialiſts, towards (C); and now having ſo brave an Army round the Town, we could not queſtion but we ſhould be Maſters of it in a ſhort time; our Lines of Circumvalla<g ref="char:EOLhyphen"/>tion and Contravallation being finiſhed, we were beginning to raiſe ſeveral Batteries, as at (D); and this Evening arrived in our Camp part of our Artillery from <hi>Comorra.</hi>
+            </p>
+            <p>This day the beſieged made a Sally of Two hundred men, with a deſigne to hinder our Works; but finding Five hundred of the <hi>Ba<g ref="char:EOLhyphen"/>varians</hi> ready, to receive them, were forced im<g ref="char:EOLhyphen"/>mediately to retire; and the <hi>Bavarians</hi> purſu<g ref="char:EOLhyphen"/>ing very deſperately, took three of their men, without any loſs on our ſide; one of theſe, in hopes of better uſage, told us, that the Garriſon contained yet Eighteen hundred men; that there had been great want of Proviſions, but that the Baſſa had now opened the great Maga<g ref="char:EOLhyphen"/>zine which he had reſerved for the Siege.</p>
+            <pb n="10" facs="tcp:98855:11"/>
+            <p> 
+               <hi>July</hi> the 10th, about eight a clock in the morning, <milestone type="tcpmilestone" unit="unspecified" n="(10.)"/> the Beſieged made another Sally with Three hundred Foot, and Two hundred Horſe, thinking to ſpoil the Batteries we were raiſing at (D) or to draw our men under the fire of their Ramparts; upon which the Princes <hi>de Roch-ſur-Yon,</hi> and <hi>de Conti,</hi> accompanied with ſeveral Volunteers, went preſently to charge them; but the Count <hi>de Serini,</hi> with the Ge<g ref="char:EOLhyphen"/>neral Officers, cauſed them to retire, perceiving the danger by which many might have been loſt. The Prince <hi>de Roche-ſur-Yon</hi> was in great danger, a Cannon-bullet, having taken off one of his Horſes legs, but he was preſently re<g ref="char:EOLhyphen"/>mounted. The Prince <hi>de Wirtemberg,</hi> Colonel of the King of <hi>Denmark</hi>'s Guards du Corps, re<g ref="char:EOLhyphen"/>ceived a dangerous Wound, by a Musket-bullet, in the head; the Prince <hi>de Commercy</hi> was wounded in the thigh; and four other brave Volunteers were hurt. However, the Salliers were obliged, without any more effect, to retire; the Baron <hi>de Roſencrans</hi> was alſo dan<g ref="char:EOLhyphen"/>gerouſly wounded on this occaſion.</p>
+            <p>The ſame day the Duke of <hi>Lorrain</hi> obſer<g ref="char:EOLhyphen"/>ved the place very near, and appointed the chief Attack to be about the Baſtion at (E) and the Weſtern Gate (F) which is in the
+<pb n="11" facs="tcp:98855:11"/>ſame place where the <hi>Turks</hi> made theirs, when they took this Fortreſs from the Chriſtians <hi>Anno</hi> 1663. The following night Colonel <hi>Beck,</hi> with two Lieutenant-Colonels, two Majors, twelve Captains, with Lieutenants and Enſignes, and Twelve hundred men, were de<g ref="char:EOLhyphen"/>tatched to take ſeveral Poſts: The Enemy fi<g ref="char:EOLhyphen"/>red upon them very warmly, but with little effect, there being onely three killed, and four ſlightly wounded.</p>
+            <p>
+               <hi>July</hi> the 11th the reſt of our Cannon and Mortars arrived in the Camp, <milestone type="tcpmilestone" unit="unspecified" n="(11.)"/> being in all a hundred Pieces of Cannon, and twenty ſix Mortar-pieces.</p>
+            <p>This day the Duke of <hi>Lorrain</hi> ſent to the Inhabitants of <hi>Newtra,</hi> commanding them to provide a hundred thouſand Faggots for the filling up of the Ditch, and to bring them to the Camp.</p>
+            <p>This night the Trenches were opened by Three thouſand Foot; the beſieged fired upon them, but did very little execution: One of the chief Commanders in this Action was the Baron <hi>de Beck,</hi> who poſted himſelf very ad<g ref="char:EOLhyphen"/>vantageouſly about (G) though he was fired upon ſo fiercely, that he had much ado to main<g ref="char:EOLhyphen"/>tain that Poſt.</p>
+            <pb n="12" facs="tcp:98855:12"/>
+            <p> This day arrived here the Count <hi>de Rabata</hi> Commiſſary-General of the Army, who took ſuch care that Proviſions coming down the <hi>Da<g ref="char:EOLhyphen"/>mibe</hi> every day, we never had amongſt us the leaſt ſcarcity. Beſides, other money from the Emperour, he brought with him a hundred thouſand Florens, which were given towards this Siege by Cardinal <hi>Bonviſi</hi> the Popes Nuncio at <hi>Vienna.</hi>
+            </p>
+            <p>
+               <hi>July</hi> the 12th little paſſed this day worthy of remark, <milestone type="tcpmilestone" unit="unspecified" n="(12.)"/> onely the Trench was carried on at night a great length, from the right to the left at (H) and we began to raiſe two Batteries at (I) and (K) to ruine the Defences of the place. Mean while they within fired ſo thick upon us, that Colonel <hi>Beck</hi> was fain to retire a little into the Trenches; notwithſtand<g ref="char:EOLhyphen"/>ing which, there was a Lientenant and three common Souldiers killed, and five wounded.</p>
+            <p>
+               <hi>July</hi> the 13th, <milestone type="tcpmilestone" unit="unspecified" n="(13.)"/> This night we finiſhed the Redoubt at (K) and carried on the Tren<g ref="char:EOLhyphen"/>ches within fifty paces of the Ditch; they were made narrower than the night before, and the Souldiers covered themſelves ſo well from the Enemies fire, that there was not a man killed this night. There was alſo a Re<g ref="char:EOLhyphen"/>doubt
+<pb n="13" facs="tcp:98855:12"/>doubt made at the head of each Trench, to ſe<g ref="char:EOLhyphen"/>cure them from the Enemies Sallies.</p>
+            <p>
+               <hi>July</hi> the 14th, <milestone type="tcpmilestone" unit="unspecified" n="(14.)"/> the beſieged as ſoon as it was day, began to fire upon us with their Cannon, and continued it moſt part of the day, by which they ſomewhat diſobliged our Battery at (I) killed <hi>John Martin Trach,</hi> a Captain of Foot, one Corporal, and three common Souldiers, and the Duke <hi>de Croy</hi>'s Page, beſides ſome few that were wounded. But we in the mean time ſtood not idle; for from the foreſaid Battery, and that at (K) we diſmounted ſeveral of their Cannon from the Baſtion at (E) and by the Carcaſſes and Bombs, of a new invention, made by Don <hi>Riſco</hi> a Spaniard, which we now began to caſt into the Town, we perceived ſome part of the Town that was next us on fire; but it was ſoon extinguiſhed by the care of the be<g ref="char:EOLhyphen"/>ſieged.</p>
+            <p>Towards evening, about One hundred and twenty Horſe came out of the Town, and with great ſury made towards a Guard of the <hi>Bava<g ref="char:EOLhyphen"/>rians</hi> at (L) which conſiſting of onely about Thirty Horſe, retired; but Colonel <hi>Soyer,</hi> with about Three hundred, immediately horſed them ſelves, and approaching the Enemy, with great bravery ſoon beat them back into the Town,
+<pb n="14" facs="tcp:98855:13"/>with the loſs of four or five on the Enemies ſide.</p>
+            <p>
+               <hi>July</hi> the 14th, <milestone type="tcpmilestone" unit="unspecified" n="(14.)"/> at night we finiſhed another Redoubt on the left at (M) and the Line of Communication between the Trenches, in the middle whereof at (N) we began to raiſe a Battery of ten Pieces of Cannon</p>
+            <p>This night we alſo began a falſe Attack at (O) on the South ſide oppoſite to the true one, which diverted the beſieged that way; ſo that we had the greater liberty to make our approaches to the Ditch, which was carried on with all the expedition imaginable; and all this night we had onely one man woun<g ref="char:EOLhyphen"/>ded.</p>
+            <p>
+               <hi>July</hi> the 15th, <milestone type="tcpmilestone" unit="unspecified" n="(15.)"/> this morning we played from a Battery of three great Pieces of Cannon, new raiſed, which did as much ſervice, not<g ref="char:EOLhyphen"/>withſtanding the Enemy played upon us all day without intermiſſion, but effected little to our diſadvantage, onely a preſumptuous Fellow, out of a bravado ſtanding on the Mold between the Trenches, was deſervedly for his impudence taken off by a Cannon-bullet.</p>
+            <p>This night we got to the Ditch at ſeveral pla<g ref="char:EOLhyphen"/>ces at (O) both on the right and left, which was a very deſperate Attempt, but was fa<g ref="char:EOLhyphen"/>voured
+<pb n="15" facs="tcp:98855:13"/>by the darkneſs of the night; notwith<g ref="char:EOLhyphen"/>ſtanding which, the beſieged behaved them<g ref="char:EOLhyphen"/>ſelves ſo briskly, that we had above fifty men killed and wounded; amongſt which, the Ba<g ref="char:EOLhyphen"/>ron <hi>de Aſty,</hi> Lieutenant-Colonel, was one, two Engineers, and two Enſignes; alſo <hi>John Co<g ref="char:EOLhyphen"/>lalto</hi> a Lieutenant-Colonel of the Regiment of <hi>Grana,</hi> was likewiſe killed; and <hi>Joſhua Pentz,</hi> a Captain of the Regiment of <hi>Baden,</hi> was wounded: We had in all fifteen killed. We alſo this night tryed the Ditch with long Sticks, but to little purpoſe, by reaſon of the Enemies Fire, and a Party of <hi>Turks</hi> that ſal<g ref="char:EOLhyphen"/>lied out upon us, but were ſoon forced to re<g ref="char:EOLhyphen"/>treat.</p>
+            <p>
+               <hi>July</hi> the 15th, we had advice ſent us by our Scouts abroad, that the <hi>Turkiſh</hi> Troops that aſſembled at <hi>Novigrad,</hi> had paſſed the <hi>Danube</hi> at <hi>Peſt,</hi> and had joyned with a Body encamped near <hi>Buda,</hi> making together an Ar<g ref="char:EOLhyphen"/>my of Sixty thouſand men, and that they had provided all things neceſſary for a Siege; which made us ſuppoſe they had a deſigne upon <hi>Vicegrad,</hi> or <hi>Gran.</hi> In which caſe the Duke of <hi>Lorrain</hi> reſolved to march with the Impe<g ref="char:EOLhyphen"/>rial Army, onely leaving about Fourteen thou<g ref="char:EOLhyphen"/>ſand here to maintain the Siege; to which end the Duke had before provided three Bridges
+<pb n="16" facs="tcp:98855:14"/>for paſſing the Army over the <hi>Danube</hi> near <hi>Comorra.</hi>
+            </p>
+            <p>
+               <hi>July</hi> the 16th, <milestone type="tcpmilestone" unit="unspecified" n="(16)"/> as I was for curioſity amongſt the reſt in the Trenches, we obſerved about ſeven a clock in the morning, a Chriſtian-ſlave who was got upon the Bridge endeavouring to eſcape; but three <hi>Turks</hi> obſerving him, followed and took him, and cut off his head: upon which, I cannot but obſerve the ingenu<g ref="char:EOLhyphen"/>ity of one <hi>Rummel,</hi> a Relation to the Major-General of that name, who from our Trenches at (R) at two ſhots with his Musket killed two of the <hi>Turks,</hi> and perhaps the third had not eſcaped, but that he got ſo nimbly into the Town.</p>
+            <p>This day we began a new Battery againſt the Palliſadoes before the Gate at (S) which had ſo good effect, that we made them aban<g ref="char:EOLhyphen"/>don that place, and ſet fire on the Palliſadoes, on which there were three or four hundred heads of Chriſtians. We obſerved them alſo making Retrenchments, and raiſing Batteries within the two attackt Baſtions, which we had almoſt ruined.</p>
+            <p>This night the Enemy made a continual fire upon us, and ſhot a great many Arrows which much annoyed us, and threw Stones; by all
+<pb n="17" facs="tcp:98855:14"/>which means they killed us twenty men, and wounded about twice ſo many.</p>
+            <p>This day we intercepted a Younſter who was ſlily getting away with Letters from the Baſſa to the Viſier of <hi>Buda,</hi> telling him, That without Relief, it was impoſſible to hold out a fortnight longer.</p>
+            <p>
+               <hi>July</hi> the 17th. <milestone type="tcpmilestone" unit="unspecified" n="(17.)"/> This day we continued our Works, and prepared things in order to fill up the Ditch; to which end the Duke ordered the <hi>Lunenburg</hi> Forces on the left to cut a Ca<g ref="char:EOLhyphen"/>nal to let the water out of the Ditch at (T) from whence it may fall into the River <hi>Newtra,</hi> which is much lower.</p>
+            <p>This day the Duke of <hi>Lorrain</hi> received ad<g ref="char:EOLhyphen"/>vice, that the <hi>Turkiſh</hi> Army marched towards <hi>Gran;</hi> upon which he <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> out Colonel <hi>Heu<g ref="char:EOLhyphen"/>ſler</hi> with about ſeven hundred Horſe, and one thouſand <hi>Huſſars,</hi> commanded by the Count <hi>de Zabor,</hi> with orders to paſs the Bridge of <hi>Barkun,</hi> and to march towards <hi>Vitegrad</hi> to learn in what poſture the Enemy was, and at the ſame time he ſent the Count <hi>de Stirum</hi> with a Body of five hundred Dragoons, to paſs one of the Bridges near <hi>Comorra,</hi> and poſt himſelf near <hi>Grun.</hi>
+            </p>
+            <pb n="18" facs="tcp:98855:15"/>
+            <p> In the mean time the Duke of <hi>Lorrain</hi> be<g ref="char:EOLhyphen"/>ſtirred himſelf here with wonderful activity, being every day himſelf in the Trenches and upon the Batteries, to give the neceſſary or<g ref="char:EOLhyphen"/>ders, and to puſh on the Siege with the grea<g ref="char:EOLhyphen"/>teſt expedition imaginable, mightily deſiring to be Maſter of this place before he be forced to meet the Turkiſh Army.</p>
+            <p>We had no great miſchief done us this day, onely there was about ten killed and woun<g ref="char:EOLhyphen"/>ded of thoſe that were working about the Ca<g ref="char:EOLhyphen"/>nal.</p>
+            <p>
+               <hi>July</hi> the 18th, <milestone type="tcpmilestone" unit="unspecified" n="(18.)"/> we battered the place with eighteen Pieces of Cannon from two Batteries at (V) by which we diſmounted many of their Cannon; beſides fourteen more, of which eight beat againſt the Gate, and ſix a<g ref="char:EOLhyphen"/>gainſt the Baſtion (E) and a Moſque which is a little behind it, and which was formerly a Church.</p>
+            <p>We plyed them ſo cloſe this day with our Bombs and Carcaſſes, that we ſet their new Palliſadoes on fire, and ruined the aforeſaid Moſque, and put that part of the Town on ſuch a flame, that it continued on fire for Sixteen hours together; they with<g ref="char:EOLhyphen"/>in having little water to quench it, and the
+<pb n="19" facs="tcp:98855:15"/>water out of the Ditch began to vaniſh a<g ref="char:EOLhyphen"/>pace.</p>
+            <p>
+               <hi>July</hi> the 19th proved a very fatal day to us, <milestone type="tcpmilestone" unit="unspecified" n="(19.)"/> by the death of the Prince <hi>de Wirtemberg,</hi> who died of the Wounds he had received on the 10th, to the lamentation of the whole Army, being a man of ſuch Courage, Prudence, and Generoſity, that perhaps he has left few of his Equals behind him. We loſt alſo this day the Sieur <hi>Mengers,</hi> one of our principal Engi<g ref="char:EOLhyphen"/>neers, who raiſing his arm in managing a Mor<g ref="char:EOLhyphen"/>tarpiece, was ſurprized by a Cannon-bullet which took off his arm, and likewiſe daſh'd out his brains.</p>
+            <p>This day we had a very brisk and handſome Encounter, about one hundred and fifty <hi>Turks</hi> iſſuing out of the Town at the Eaſt ſide at (X) thinking to ſurprize us on that ſide, lying pret<g ref="char:EOLhyphen"/>ty quiet; but <hi>de Craus</hi> a Captain in the Re<g ref="char:EOLhyphen"/>giment of <hi>Steinau,</hi> being at a Poſt thereabouts, mounted about as many of our Party, who met the <hi>Turks</hi> with a great deal of Courage, charging one another thorough and thorough, the Engagement laſting almoſt two hours, till a greater Party of the ſame Regiment making towards them, the <hi>Turks</hi> were obliged to retire. We had in this Encounter betwixt thirty and
+<pb n="20" facs="tcp:98855:16"/>forty killed and wounded, and the <hi>Turks</hi> came ſcarce off ſo well.</p>
+            <p>We could now advance our Trenches no farther, till we had either filled the Ditch, or let the water out, which we were employed about; onely we made our Trenches deeper, and by that means ſo well ſecured our ſelves, that the beſieged could do us but little in<g ref="char:EOLhyphen"/>jury. We were well provided with Fag<g ref="char:EOLhyphen"/>gots, which were now brought in from <hi>New<g ref="char:EOLhyphen"/>tra,</hi> with other neceſſaries for filling up of the Ditch.</p>
+            <p>
+               <hi>July</hi> the 20th, <milestone type="tcpmilestone" unit="unspecified" n="(20.)"/> we played ſo warmly up<g ref="char:EOLhyphen"/>on them from all parts, that not a man durſt ſhew himſelf upon the Walls; we quite bat<g ref="char:EOLhyphen"/>tered down the right ſide of the Baſtion at (E) and the Curtain on the right ſide be<g ref="char:EOLhyphen"/>tween that and the Bridge, and made large Fractions in the Baſtion at (Z) as alſo in the Curtain between it and the Baſtion at (E) ſo that that part of the Town lay open to us, and we wanted nothing but the filling of the Ditch for a general Aſſault.</p>
+            <p>This night the beſieged, as well as they could, repaired the breaches made in the day, remounted ſeveral Cannon upon new Batteries, from whence they played ſo effectually upon us
+<pb n="21" facs="tcp:98855:16"/>at the Redoubt (1) that <hi>John Ludovic Braun,</hi> a Captain of the Regiment of <hi>Gondola</hi> who commanded there, had much to do to maintain that Poſt, the Earth being beaten in upon them, and lying open to the Enemies Fire.</p>
+            <p>
+               <hi>July</hi> the 21ſt. <milestone type="tcpmilestone" unit="unspecified" n="(21.)"/> we made a Retalliation for the foreſaid miſchiefs with our Carcaſſes and Bombs, together with a Battery of ſix Pieces of Cannon from (2) with which we again diſmounted ſome of their Cannon, ſet fire to their Palliſadoes and the Town, after ſuch a manner, that it appeared almoſt all in a flame.</p>
+            <p>This night we began to lodge our ſelves in the Ditch, which the Enemy perceiving, fired upon us continually: Nevertheleſs, we pro<g ref="char:EOLhyphen"/>ceeded in it on the right and the left, and not<g ref="char:EOLhyphen"/>withſtanding it was ſo dangerous a Work, yet we loſt onely a Captain of the Regiment of <hi>Metternich,</hi> and <hi>Velus Henry</hi> another Captain of the Troops of <hi>Brunſwick,</hi> with about ten Soul<g ref="char:EOLhyphen"/>diers wounded.</p>
+            <p>The ſame night we finiſhed the Lines of Communication along the Ditch from one Bat<g ref="char:EOLhyphen"/>tery to the other.</p>
+            <pb n="22" facs="tcp:98855:17"/>
+            <p> 
+               <hi>July</hi> the 22th. <milestone type="tcpmilestone" unit="unspecified" n="(22.)"/> The Dragoons of <hi>Bavaria</hi> and <hi>Brunſwick,</hi> together with the Imperial Dragoons, making in all about five thouſand men, were ſent under the command of the Count <hi>de Lodron,</hi> towards <hi>Comorra,</hi> to cover the Bridges which the Duke of <hi>Lorrain</hi> had cauſed to be laid there over the <hi>Danube.</hi>
+            </p>
+            <p>This day the Duke of <hi>Lorrain</hi> wrote a Let<g ref="char:EOLhyphen"/>ter to the Baſſa of <hi>Newheuſel,</hi> telling him, That in what manner ſoever he Treated the Chriſtian Slaves now in his hands, he and his Garriſon muſt expect to be Treated, if the place be taken; but when the Meſſenger went to deliver it, he refuſed to admit him, bidding his men fire upon him.</p>
+            <p>This night we raiſed two new Batteries of eight Pieces of Cannon each, very near the Ditch at (3) and a thouſand men were com<g ref="char:EOLhyphen"/>manded to purſue the Work very cloſe to<g ref="char:EOLhyphen"/>wards the Baſtion (4) to let the water out of the Ditch into the River <hi>Newtra;</hi> which they did to ſuch effect, that they let out five foot of the water, but not without loſs: for we had five men killed, and near twenty woun<g ref="char:EOLhyphen"/>ded. However, it had ſo dried the Ditch on the ſide where our chief Attack was, that there was not above four foot of water left.</p>
+            <pb n="23" facs="tcp:98855:17"/>
+            <p> 
+               <hi>July</hi> the 23th, <milestone type="tcpmilestone" unit="unspecified" n="(23.)"/> we ſaw a great number of Chriſtian Slaves upon the Ramparts, and heard the noiſe of their Chains; they were employ<g ref="char:EOLhyphen"/>ed to repair the Works ruined by our Can<g ref="char:EOLhyphen"/>non, and we ſuppoſed the <hi>Turks</hi> made them appear there to excite our compaſſion, and make us forbear firing.</p>
+            <p>This day the Prince of <hi>Conty</hi> coming out of the Trenches was lightly wounded in the head.</p>
+            <p>This night we attempted to fix our Miners, and to that end made a Trench to the Ditch for two covered Boats to enter into it, in which ſome perſons were to paſs with Planks and Rafters to the foot of the Baſtion, to make a Lodgment there for the Miners; but one of theſe Boats ſunk preſently, and the other had little better ſucceſs: the Lieutenant of the Mi<g ref="char:EOLhyphen"/>ners being wounded, we were fain to deſiſt from that deſigne.</p>
+            <p>This night our Bombs and Carcaſſes had ſuch ſucceſs, that the whole Town appeared for twenty four hours in a flame.</p>
+            <p>
+               <hi>July</hi> the 24th, <milestone type="tcpmilestone" unit="unspecified" n="(24.)"/> the beſieged made a Sally with five hundred men at the Eaſtern Gate, and ſurprized a Redoubt at (6) where the
+<pb n="24" facs="tcp:98855:18"/>Sieur <hi>Peickhard,</hi> Lieutenant-Colonel, was chief Commander of about three hundred <hi>Suabian</hi> Troops, who were all cut to pieces, with the Colonel and <hi>Daniel Rumlingen,</hi> and <hi>Cornelius Fockius,</hi> Captains.</p>
+            <p>We now finding the forementioned way of paſſing the Ditch by Boats, to fix our Mi<g ref="char:EOLhyphen"/>ners, to be uſeleſs and of no effect, began to think of Galleries, the firſt of which we be<g ref="char:EOLhyphen"/>gan at (7) they were contrived with ſome covering of boards for a defence againſt the Enemies ſmall Shot; but theſe proved to be very deſperate and dangerous Attempts: and the beſieged were ſo fierce upon us, that by this means we loſt a great many men.</p>
+            <p>
+               <hi>July</hi> the 25th, <milestone type="tcpmilestone" unit="unspecified" n="(25.)"/> we finiſhed two new Batte<g ref="char:EOLhyphen"/>ries on the edge of the Ditch, and with theſe diſmounted all the Cannon on this ſide the Town, that was before left. We alſo now be<g ref="char:EOLhyphen"/>gan to fill the Ditch with Faggots, and Sacks of Wool; but not without loſs: for the Sieur <hi>Roſe,</hi> a Colonel in the <hi>Bavarian</hi> Troops, was killed, and above a hundred more killed and wounded.</p>
+            <p>This day alſo a barrel of Powder took fire near (8) by which there was thirty men kil<g ref="char:EOLhyphen"/>led and wounded.</p>
+            <pb n="25" facs="tcp:98855:18"/>
+            <p> This day Colonel <hi>Heuſler</hi> and Colonel <hi>Za<g ref="char:EOLhyphen"/>bor,</hi> who were ſent out to obſerve the Enemy, came back; they had met with a ſinall Party of <hi>Turks</hi> near <hi>Gran,</hi> and had killed about thir<g ref="char:EOLhyphen"/>ty, and taken ſeveral Priſoners. They gave the Duke of <hi>Lorrain</hi> an account, that the <hi>Otto<g ref="char:EOLhyphen"/>man</hi> Army commanded by the Seraſquier Baſſa, was marching towards <hi>Gran;</hi> that his Army conſiſted of about fifty or ſixty thouſand men; that his reſolution was, if poſſible, to relieve <hi>Newheuſel;</hi> and that ſome Priſoners they had taken, informed them alſo, that there were twelve thouſand <hi>Tartars</hi> at <hi>Novigrad</hi> ready to joyn the <hi>Turks.</hi>
+            </p>
+            <p>
+               <hi>July</hi> the 26th, <milestone type="tcpmilestone" unit="unspecified" n="(26.)"/> Prince <hi>Waldeck</hi> arrived in the Camp, and this day and night he and the Duke of <hi>Lorrain</hi> were almoſt perpetually in the Trenches, giving neceſſary Orders, and encou<g ref="char:EOLhyphen"/>raging their men, who were now a little deje<g ref="char:EOLhyphen"/>cted, and proceeded with a great deal of cau<g ref="char:EOLhyphen"/>tion, having ſo many lately killed. The chief Work was making the Gallery, and filling the Ditch, in which work we had this day, the Count <hi>de Buckheim,</hi> Lieutenant Colonel of the Regiment of <hi>Souches,</hi> killed, with about fifty more, and near a hundred wounded.</p>
+            <pb n="26" facs="tcp:98855:19"/>
+            <p> 
+               <hi>July</hi> the 27th, <milestone type="tcpmilestone" unit="unspecified" n="(27.)"/> the beſieged made a Sally with about three hundred men; theſe ruſhing ſuddenly on our Workmen at (9) forced them from the Works, and then had an op<g ref="char:EOLhyphen"/>portunity of doing us great miſchief, by ruin<g ref="char:EOLhyphen"/>ing our Works that let the water out of the Ditch; but Colonel <hi>Schenick,</hi> being at the next Redoubt, made towards them with about ſix hundred, upon which they ſoon retired into the Town, though they had before killed and wounded near a hundred of our men: the Works they had ruined were repaired in ſome few hours. And they then ſet upon making a new Redoubt for ſecurity from any more ſuch Sallies.</p>
+            <p>We fired our Cannon, and caſt Carcaſſes and Bombs all this day, without intermiſſion, hoping by this means to keep the beſieged from obſtructing our Workmen about the Gal<g ref="char:EOLhyphen"/>leries; theſe had no greater effect than that we could perpetually obſerve the Town on fire in one place or other; but the beſieged from under the Walls ſo pelted us with Stones and Hand-Granado's, that they killed a hundred of our men, and wounded many more.</p>
+            <pb n="27" facs="tcp:98855:19"/>
+            <p> 
+               <hi>July</hi> the 28th, <milestone type="tcpmilestone" unit="unspecified" n="(28.)"/> the beſieged made another Sally, and with great vigour made up to our Gallery, ſo that they beat moſt of our men from it, killed two Captains, and ſixty com<g ref="char:EOLhyphen"/>mon Souldiers, and ſet the Gallery on fire, be<g ref="char:EOLhyphen"/>ſides wounded near a hundred more; beſides, this was not all the injury they did us, for they fought with ſuch deſperation and cou<g ref="char:EOLhyphen"/>rage towards what they had done before, that we were perſwaded they queſtioned not ha<g ref="char:EOLhyphen"/>ving relief very ſhortly; and all their aim was onely to keep us out of the Town till then: and for this reaſon, whilſt we battered them remotely, they valued us not, and ſo made lit<g ref="char:EOLhyphen"/>tle defence; but perceiving us come ſo near them, it was time to look to themſelves: they got to two of our Batteries, beat our men a<g ref="char:EOLhyphen"/>way, and diſinounted ſeveral of the Cannon, till the Duke of <hi>Lorrain</hi> and Prince <hi>Waldeck</hi> came up with a ſtrong Body, and forced them to retire.</p>
+            <p>This day the Duke of <hi>Lorrain</hi> receiving advice that the Seraſquier Baſſa made imme<g ref="char:EOLhyphen"/>diately towards <hi>Gran,</hi> ſent five hundred Foot under the command of Major <hi>Rummel,</hi> to re<g ref="char:EOLhyphen"/>enforce that Garriſon.</p>
+            <pb n="28" facs="tcp:98855:20"/>
+            <p> 
+               <hi>July</hi> the 29th, <milestone type="tcpmilestone" unit="unspecified" n="(29.)"/> we repaired the Batteries and the Galleries which the beſieged had fi<g ref="char:EOLhyphen"/>red the day before, and worked ſo briskly with our Cannon, that we almoſt ruined the Flanks of the attackt Baſtions. We made a pretty good Lodgment in the Ditch, and were ready to fix our Miners; but the be<g ref="char:EOLhyphen"/>ſieged with their ſmall Shot, Hand-Granado's, and other artificial Fire, killed and wounded vaſt numbers of our men.</p>
+            <p>This day the Elector of <hi>Bavaria</hi> arrived in the Camp, and was received with the diſ<g ref="char:EOLhyphen"/>charge of all the Cannon and Mortars againſt the place.</p>
+            <p>The Duke of <hi>Lorrain</hi> ſent an Expreſs to the Auxiliary Troops of <hi>Cologne</hi> and <hi>Franco<g ref="char:EOLhyphen"/>nia,</hi> with Orders to haſten their March to <hi>Co<g ref="char:EOLhyphen"/>morra</hi> and halt there, ſtaying for the Imperial Army which ſhould paſs the <hi>Danube</hi> there, in caſe they went to fight the <hi>Ottoman</hi> Ar<g ref="char:EOLhyphen"/>my.</p>
+            <p>This night the beſieged made a Sally by a covered way which had a Communication into the Ditch near (9) and filled up part of the Canal that let the water out of the Ditch. They likewiſe filled up ſome other of our Works, and burnt ſome Galleries that we had
+<pb n="29" facs="tcp:98855:20"/>begun to make that way at (10) being the Attack of the Troops of <hi>Brunſwick,</hi> and aſ<g ref="char:EOLhyphen"/>ſaulted our men that defended the Work, with ſuch courage, that they almoſt got to our Pow<g ref="char:EOLhyphen"/>der and Ammunition; they killed us above a hundred men, and wounded near two hun<g ref="char:EOLhyphen"/>dred.</p>
+            <p>
+               <hi>July</hi> the 30th, <milestone type="tcpmilestone" unit="unspecified" n="(30.)"/> the beſieged made another Sally, and ſet fire to the Gallery, which had almoſt quite ruined it; the fire ran ſo ſwift, that it got to one of our Batteries, whereupon thoſe about it retired in ſome diſorder, till the Duke of <hi>Lorrain</hi> coming there, with his Sword killed one or two that were running away, and ſet the Officers back to the Poſts they had quitted, and left them not till the fire was put out; though in the mean time he was continu<g ref="char:EOLhyphen"/>ally expoſed to the Enemies fire, and many per<g ref="char:EOLhyphen"/>ſons were killed about him.</p>
+            <p>Alſo about mid-day the beſieged made ano<g ref="char:EOLhyphen"/>ther Sally on the other ſide of the Town, and notwithſtanding what oppoſition our Forces there could make, they quite filled up the Canal which let the water out of the Ditch.</p>
+            <p>
+               <hi>July</hi> the 31th, <milestone type="tcpmilestone" unit="unspecified" n="(31.)"/> we began to dig a new the Canal that the Enemy had filled up, we
+<pb n="30" facs="tcp:98855:21"/>had alſo quite repaired our Galleries, and advanced them to the Walls. We al<g ref="char:EOLhyphen"/>ſo finiſhed the Lines of Circumvallation, from one Gallery to another, notwithſtanding the oppoſition of the Enemy, which was very great; and with our Cannon we ſo ruined the attackt Baſtions, that we quite diſabled them for making any farther uſe of their Can<g ref="char:EOLhyphen"/>non.</p>
+            <p>This night the <hi>Turks</hi> came out in great numbers on the Weſt ſide, and killed Captain <hi>John Dupigne,</hi> and two Lieutenants, and near a hundred Souldiers that had the Guard, and <hi>Sibert Kucklander,</hi> a Lieutenant-Colonel of the Regiment of <hi>Gallenfels,</hi> was dangerouſly woun<g ref="char:EOLhyphen"/>ded. The <hi>Turks</hi> endeavoured to have procee<g ref="char:EOLhyphen"/>ded farther, but were repulſed by the Regiment of <hi>Picolomini,</hi> moſt part of which were at the next Poſt.</p>
+            <p>We perceived this day new Retrenchments raiſed within the attackt Baſtions by the be<g ref="char:EOLhyphen"/>ſiegers, where they had remounted their Can<g ref="char:EOLhyphen"/>non, and play'd upon one of our Batteries ſo fierce, that they ſet fire to it, which put thoſe about it into a great conſternation, ſo that no one offered to put out the fire, till the Duke of <hi>Lorrain</hi> came and began himſelf to ſhovel up<g ref="char:EOLhyphen"/>on it.</p>
+            <pb n="31" facs="tcp:98855:21"/>
+            <p> 
+               <hi>Auguſt</hi> the firſt,<note place="margin">Auguſt.</note> the Duke of <hi>Lorrain</hi> recei<g ref="char:EOLhyphen"/>ved advice from <hi>Gran,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="(1.)"/> that the five hundred men that he had ſent there under the command of Major <hi>Rounkel,</hi> had got into the Town on the 30th of <hi>July,</hi> and that the ſame day the Seraſquier Baſſa, with between fifty and three<g ref="char:EOLhyphen"/>ſcore thouſand men, began to beſiege the place, immediately falling upon Intrenchments, which the next day they opened, and began to batter upon the place with ſeven Pieces of Cannon, and four Mortars, from the Hills of St. <hi>Thomas</hi> and St. <hi>George.</hi> Upon this the Duke of <hi>Lor<g ref="char:EOLhyphen"/>rain</hi> immediately called a great Council of War to adviſe upon Affairs, where many mo<g ref="char:EOLhyphen"/>ved, that the Governour of <hi>Gran</hi> being ſo well provided that he could eaſily ſecure the Town for two months: therefore it was the beſt way vigorouſly to purſue the Siege of <hi>Newheu<g ref="char:EOLhyphen"/>ſel,</hi> and not meddle with the Turkiſh Army, till they had ſomething weakened themſelves be<g ref="char:EOLhyphen"/>fore <hi>Gran.</hi> But the majority concluded to march with the greateſt part of the Army to meet the <hi>Turks;</hi> upon which the Count <hi>de Lamberg</hi> was ſent to <hi>Vienna</hi> to acquaint the Em<g ref="char:EOLhyphen"/>perour herewith.</p>
+            <p>In the mean time the Siege was purſued with all poſſible vigour, having made ſeveral
+<pb n="32" facs="tcp:98855:22"/>Galleries, and fixed the Miners in many places, the Ditch on this ſide being half filled up, and but little water left in it.</p>
+            <p>This day the beſieged made a Sally with four hundred men; but lighting upon a Poſt where General <hi>Souches</hi> kept the Guard, they prevailed but little, being driven back into the Town, though with the loſs of fifty men on our ſide, and the General himſelf received a wound by an Arrow.</p>
+            <p>
+               <hi>Auguſt</hi> the ſecond, <milestone type="tcpmilestone" unit="unspecified" n="(2.)"/> the Duke of <hi>Lorrain,</hi> in order to ſecure the Camp before <hi>Newheu<g ref="char:EOLhyphen"/>ſel,</hi> when he was gone with the greateſt part of the Army to fight the <hi>Ottomans,</hi> fearing they ſhould be ſurprized by a Body of the <hi>Turks,</hi> who lay near <hi>Novigrad,</hi> with deſigne to attack us in the Duke of <hi>Lorrain</hi>'s abſence, began to make ſeveral Retrenchments about the Camp, reſolving not to leave us, till we were ſecure from ſuch an Attempt. In the mean time our Attacks being carried on with all imaginable Vigour, we ſo diſinayed the beſieged, that they deſired a Parlee, wherein the Baſſa offered to ſurrender it upon Condi<g ref="char:EOLhyphen"/>tion he might march out of the Garriſon with their Arms, all ſorts of Ammunition, and Can<g ref="char:EOLhyphen"/>non, and take with him all the Chriſtian Slaves,
+<pb n="33" facs="tcp:98855:22"/>with Drums beating, Colours flying, <hi>&amp;c.</hi> But to theſe Conditions the Duke of <hi>Lorrain</hi> would by no means yield.</p>
+            <p>This night the Enemy came into the Ditch in ſmall Boats, on the Eaſtern ſide; but finding all Poſts ſo well guarded, and the Redoubts ſo well mann'd, they durſt not enterprize any thing of moment, and were therefore forced to retire.</p>
+            <p>
+               <hi>August</hi> the third, we ſounded the Ditch, <milestone type="tcpmilestone" unit="unspecified" n="(3.)"/> and found on the Eaſt ſide four foot of water yet left.</p>
+            <p>This day the Count <hi>de Lamberg</hi> arrived in the Camp again from <hi>Vienna,</hi> with an ac<g ref="char:EOLhyphen"/>count from the Emperour to the Duke of <hi>Lorrain,</hi> That he approved of the Reſolution he had taken, and ordered him to purſue the ſame with all expedition; upon which all things were diſpoſed for a March as ſoon as poſ<g ref="char:EOLhyphen"/>ſible.</p>
+            <p>This night we raiſed on the edge of the Ditch at (11) a now Battery of eighteen Pieces of Cannon, which much diſturbed the Town on that ſide. But Colonel <hi>Burgs<g ref="char:EOLhyphen"/>dorff,</hi> Governour of <hi>Duſſeldorf,</hi> who was but juſt arrived in the Camp, had the misfor<g ref="char:EOLhyphen"/>tune to be killed by a Musket-bullet: we
+<pb n="34" facs="tcp:98855:23"/>had beſides this day about fifty killed and wounded. <milestone type="tcpmilestone" unit="unspecified" n="(4.)"/>
+            </p>
+            <p>
+               <hi>August</hi> the 4th, we betimes received ad<g ref="char:EOLhyphen"/>vice from <hi>Gran,</hi> that on the firſt inſtant the beſiegers wonderfully advanced their Tren<g ref="char:EOLhyphen"/>ches; but the beſieged had ſo good luck, as from the Caſtle to diſmount ſeveral of their Cannon.</p>
+            <p>On the ſecond, the beſieged made a Sally, which had ſo good effect, as to kill above two hundred of the <hi>Turks,</hi> with the loſs of very few on our ſide. The ſame day the <hi>Turks</hi> attackt the Lower Town; but with little ad<g ref="char:EOLhyphen"/>vantage: for after they had loſt about three hundred men, they were obliged at that time to deſiſt.</p>
+            <p>This day we began to undermine on the ſide attackt by the Troops of <hi>Brunſwick;</hi> but the Work proceeded but ſlowly, we were ſo moleſted by the ſmall Shot of the beſieged, which was poured upon us continually, and killed many of our men. However, the Work was carried on to the Line of Commu<g ref="char:EOLhyphen"/>nication in the new Works; and we raiſed a new Battery of four Mortars in the turn of one that was newly beat down.</p>
+            <pb n="35" facs="tcp:98855:23"/>
+            <p> 
+               <hi>August</hi> the 5th, we had proceeded ſo far in our Retrenchments, <milestone type="tcpmilestone" unit="unspecified" n="(5.)"/> that they were now almoſt finiſhed, and the Duke of <hi>Lorrain</hi> re<g ref="char:EOLhyphen"/>ſolved upon his March next day. The whole Army being thus compoſed, the Imperial Army in all was about twelve thouſand Horſe, and ten thouſand Foot; the <hi>Lunenburgers</hi> were eight thouſand Foot, and four thouſand Horſe; the <hi>Bavarians</hi> ſix thouſand Foot, and three thouſand Horſe; the Elector of <hi>Cologne</hi>'s For<g ref="char:EOLhyphen"/>ces three thouſand five hundred Foot, and two thouſand Horſe; the <hi>Franconians</hi> about two thouſand Foot, and fifteen hundred Horſe. Theſe in all made an Army of about two and fifty thouſand men; whereof eleven thouſand Foot, and five thouſand Horſe being of the Imperial and <hi>Lunenburg</hi> Troops, were left with fifty eight Pieces of Cannon, and eigh<g ref="char:EOLhyphen"/>teen Mortars, to continue the Siege of <hi>New<g ref="char:EOLhyphen"/>houſel,</hi> under the command of the Count <hi>de Caprara</hi> Mareſchal <hi>de Camp</hi> General, and the Duke <hi>de Croy,</hi> General of the Artille<g ref="char:EOLhyphen"/>ry.</p>
+            <p>This day the beſieged fired ſo warmly from a new Battery they had raiſed within, that they much diſordered our Workmen, and ruined part of the laſt-mentioned Gallery;
+<pb n="36" facs="tcp:98855:24"/>they killed and wounded near a hundred of our men, ſo that we were obliged to diſcon<g ref="char:EOLhyphen"/>tinue the Work till night, at which time we repaired the foreſaid Breaches, and got good covert for our Workmen.</p>
+            <p>
+               <hi>August</hi> the 6th, <milestone type="tcpmilestone" unit="unspecified" n="(6.)"/> the Duke of <hi>Lorrain,</hi> with the Elector of <hi>Bavaria,</hi> and Prince <hi>Waldeck,</hi> began to march from the Camp towards <hi>Co<g ref="char:EOLhyphen"/>morra,</hi> deſigning there to paſs the <hi>Danube</hi> and go fight the Enemy with their Army, which conſiſted of about ſix and thirty thouſand men, beſides many Illuſtrious Volunteers.</p>
+            <p>The beſieged obſerving our Camp to move in ſo vaſt a Body, preſently concluded that we were all running away. However, they durſt not venture a Sally, but confined them<g ref="char:EOLhyphen"/>ſelves within at preſent, being all Rapture upon ſo unexpected a happineſs, which they expreſſed by loud Shouts and Acclamations, after their wonted way; which we permitted for ſome hours, having by that means a more ſafe opportunity of carrying on our Galle<g ref="char:EOLhyphen"/>ries and other Works. But at laſt we diver<g ref="char:EOLhyphen"/>ted this Cry by our more than uſual Vollies of ſmall Shot, and a continued fire from our Batteries.</p>
+            <pb n="37" facs="tcp:98855:24"/>
+            <p> 
+               <hi>August</hi> the 7th, we had an account by a Meſſenger, <milestone type="tcpmilestone" unit="unspecified" n="(7.)"/> who got thorough the Turkiſh Camp before <hi>Gran,</hi> That the Turkiſh Army there, was not above forty thouſand ſtrong, and that they were moſt of them new-raiſed Forces, and that they had been repulſed in ſe<g ref="char:EOLhyphen"/>veral Attacks they had made upon that place; and that though their chief Attack was upon the Lower Town, yet they had prevailed but little there.</p>
+            <p>This day we had carried our Galleries ſo near the place, that the Miners began to work ſafely; the Flanks of the two attackt Baſtions were ſo beaten down by our firing, which had now continued almoſt two days without intermiſſion, that they almoſt filled the Ditch in thoſe places; and we made uſe of the Stone which did us a great kindneſs a<g ref="char:EOLhyphen"/>bout the Galleries. We had alſo now ſo bat<g ref="char:EOLhyphen"/>tered the Walls of the Town in all parts, that there was not a place ſtrong enough to ſup<g ref="char:EOLhyphen"/>port a Cannon left; but the beſieged conti<g ref="char:EOLhyphen"/>nually laboured about Retrenchments within the Baſtions, from whence they played with their Cannon.</p>
+            <p>
+               <hi>August</hi> the 8th, about ſeven a Clock, <milestone type="tcpmilestone" unit="unspecified" n="(8.)"/> the
+<pb n="38" facs="tcp:98855:25"/>beſieged, I ſuppoſe, thinking us now a little more remiſs in our buſineſs than uſual, which opinion might be alſo confirmed by the peace<g ref="char:EOLhyphen"/>ableneſs of our Cannon, made an iſſue on the Eaſt ſide, with a ſtrong Body of men; but the Duke <hi>de Croy,</hi> who took it upon him to manage Affairs at this time on that ſide the Town, had ſo well provided for recep<g ref="char:EOLhyphen"/>tion, that after a ſhort Skirmiſh they were forced to retire, having killed about thirty of our men, and wounded twice the num<g ref="char:EOLhyphen"/>ber; with the loſs of about as many on their Party.</p>
+            <p>This night a Gallery near the Bridge, on the Weſt ſide the Town, being almoſt fi<g ref="char:EOLhyphen"/>niſhed, ſo much diſtaſted the beſieged, that they not onely iſſued out upon it, but alſo threw Hand-Granadoes, and other artificial Fire upon it, till they had put it on fire; which ſo frighted our men there, that had not <hi>Erneſt Pentz,</hi> a Noble and Reſolute Cap<g ref="char:EOLhyphen"/>tain, quickly come, it had been burnt to A<g ref="char:EOLhyphen"/>ſhes.</p>
+            <p>
+               <hi>August</hi> the 9th, <milestone type="tcpmilestone" unit="unspecified" n="(9.)"/> we repaired the foreſaid Gallery, and fixed our Miners under the Curtain near (F) where we deſigned to ſpring a Mine as ſoon as it could be got rea<g ref="char:EOLhyphen"/>dy.
+<pb n="39" facs="tcp:98855:25"/>We were endeavouring the ſame by ſeveral Galleries about the attackt Baſtions on the North ſide the Town, and had now let as much water out of the Ditch, as the height of it above the River <hi>Newtra</hi> would permit; notwithſtanding, there was yet on ſome parts between three and ſour foot water left.</p>
+            <p>
+               <hi>August</hi> the 10th, <milestone type="tcpmilestone" unit="unspecified" n="(10.)"/> arrived here a Gentleman with a private Meſſage from the Duke of <hi>Lorrain</hi> to General <hi>Caprara;</hi> he told us, that the ninety three Squadrons and forty Batali<g ref="char:EOLhyphen"/>ons that went from hence on the 6th, had on the 8th been joyned with four thouſand five hundred <hi>Hungarians,</hi> under the command of the Count <hi>de Eſterhaſi,</hi> and that on the ſame day they had paſſed the Bridges near <hi>Comor<g ref="char:EOLhyphen"/>ra,</hi> which the Duke of <hi>Lorrain</hi> had before cauſed to be laid there. That on the 9th they marched to <hi>Dotis,</hi> and that the Count <hi>de Rabata,</hi> who took care for Proviſions, had ſent a vaſt number of Boats down the <hi>Da<g ref="char:EOLhyphen"/>nube,</hi> laden with all Neceſſaries for the Ar<g ref="char:EOLhyphen"/>my, which were to go forward as the Army advanced.</p>
+            <p>This day there happened with us nothing
+<pb n="40" facs="tcp:98855:26"/>worthy of remark, being employed about mi<g ref="char:EOLhyphen"/>ning altogether; and we had ſo well ordered our affairs, that they within could not at all in<g ref="char:EOLhyphen"/>jure us.</p>
+            <p>
+               <hi>Auguſt</hi> the 11th, <milestone type="tcpmilestone" unit="unspecified" n="(11.)"/> the Count <hi>de Caprara</hi> being of opinion that we might eaſily break down the Weſt Bridge and the Gate, and entrench our ſelves ſo that the beſieged could neither ſally out there, nor do us any injury from thence, we accordingly ſet about it; but in the end found it to be very hot ſer<g ref="char:EOLhyphen"/>vice: for the Enemy had ſo advantageouſly placed their Cannon about the Gate, both within and without, that there was no co<g ref="char:EOLhyphen"/>ming near them. Colonel <hi>Heiſter</hi> and Cap<g ref="char:EOLhyphen"/>tain <hi>Som,</hi> who were the foremoſt in this At<g ref="char:EOLhyphen"/>tempt, were killed, and a hundred common Souldiers either killed or wounded. Howe<g ref="char:EOLhyphen"/>ver, we prevailed ſo far, that the little For<g ref="char:EOLhyphen"/>tification before the Bridge was ruined to all intents and purpoſes; and we raiſed a new Bat<g ref="char:EOLhyphen"/>tery of Cannons and Mortars at (12) which beat full upon the Gate.</p>
+            <p>This night Colonel <hi>Brecy</hi> being upon the Guard, took a <hi>Turk</hi> who in a Chriſtian habit was endeavouring to eſcape; he, in hopes of
+<pb n="41" facs="tcp:98855:26"/>pardon, told us the condition the Town was in, that their Wall had not been uſeful, as to ſupporting of their Cannon, for many days, and that their chief defence was from new<g ref="char:EOLhyphen"/>raiſed Batteries: That as to the number of their men, they yet conſiſted of eighteen hun<g ref="char:EOLhyphen"/>dred Souldiers, but that at leaſt five hundred were ſick and wounded, and of no uſe: That the Garriſon was quite out of heart, but that the Baſſa endeavoured to animate them with hopes of Relief every moment; and 'twas onely upon this hopes that they now relyed, and therefore made ſo vigorous a defence.</p>
+            <p>
+               <hi>Auguſt</hi> the 12th, <milestone type="tcpmilestone" unit="unspecified" n="(12.)"/> we began to fill up the Ditch on the other ſide the Town, having al<g ref="char:EOLhyphen"/>ready pretty well levelled the Walls; we hoped alſo to level the Ditch in a ſhort time, and then deſigned a General Aſſault.</p>
+            <p>Some ſmall Scouts we had abroad came in this day; they had by chance in their pro<g ref="char:EOLhyphen"/>greſs met with about twenty of the Enemy, and killed and taken them all: One of the Priſoners told us, that the Viſier of <hi>Buda</hi> and three other Baſſa's were encamped with a Body of men, with a deſigne to relieve <hi>Newheuſel;</hi> but hearing what a ſtrong Guard was left a<g ref="char:EOLhyphen"/>bout
+<pb n="42" facs="tcp:98855:27"/>the place, they durſt not attempt it, till they were re-enforced by the Seraſquier for that purpoſe, which they expected every day.</p>
+            <p>
+               <hi>Auguſt</hi> the 13th, <milestone type="tcpmilestone" unit="unspecified" n="(13.)"/> at ſeven a Clock this mor<g ref="char:EOLhyphen"/>ning we ſprang a Mine at the corner of the Baſtion (E) which ſomewhat brake the Wall, and diſmounted ſome of their Cannon from their new-raiſed Batteries juſt within it. At the ſame time we fired from all quar<g ref="char:EOLhyphen"/>ters, not onely with our Cannon, but with our Mortars, which had been idle many days. This put the beſieged into ſuch a conſterna<g ref="char:EOLhyphen"/>tion, that they preſently hung out a Flag for a Parlee; which being granted, they offered to ſurrender, if ſo be the Garriſon ſhould have liberty to walk off with their Cannon and all Ammunition that was left; but it ſeems theſe Terms did not pleaſe our Party, and therefore the Parlee ſignified nothing. Upon this we fell to hotter Diſputes on both ſides; and they within being a little deſperate, plyed us with a vengeance from all parts, ſo that they killed or wounded us this day near a hundred and fifty men. One Accident is remarkable of a Noble <hi>Turk,</hi> who by accident, in the
+<pb n="43" facs="tcp:98855:27"/>heat of this days work, tumbled from one of their new-raiſed Fortifications, over a broken place in the Wall, down into the Ditch, where ſoon recovering himſelf without inju<g ref="char:EOLhyphen"/>ry, notwithſtanding he was to oppoſe our whole Party, bravely drew his Cymiter and with it laid about him ſo briskly, that he killed five upon the ſpot, before a Musker-bullet came, which hitting him on the head, he immediately expired.</p>
+            <p>
+               <hi>August</hi> the 14th, <milestone type="tcpmilestone" unit="unspecified" n="(14.)"/> there paſſed nothing of a<g ref="char:EOLhyphen"/>ny note, our chief Forces being employed in filling the Ditch and Mining, upon which we ſetled all our Expectations. However, the beſieged, who now wanted not for induſtry, had again put in order the late diſpoiled Bat<g ref="char:EOLhyphen"/>tery, and from thence beat ſo effectually up<g ref="char:EOLhyphen"/>our greateſt Battory at (13) that they diſ<g ref="char:EOLhyphen"/>mounted us ſix Cannon, and heat the Earth ſo about, that they almoſt levelled the Tren<g ref="char:EOLhyphen"/>ches near it.</p>
+            <p>The 15th of <hi>August,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="(15.)"/> in the morning we ſprang three Mines at the ſame time, which had all pretty good effect, and Captain <hi>Haſ<g ref="char:EOLhyphen"/>ner</hi> immediately entered the greateſt Breach
+<pb n="44" facs="tcp:98855:28"/>with about a hundred and fifty men; but as it happened, the <hi>Turks</hi> chief Poſt was juſt within, ſo that many hundred ruſhing upon our Party, forced them to retine into the Ditch, though the Captain firſt loſt above ſix<g ref="char:EOLhyphen"/>ty of his men, and before he got off, was him<g ref="char:EOLhyphen"/>ſelf mortally wounded by a Muſquet-bullet. In this Engagement a Chriſtian being ſingly engaged with a Turk, they by chance cloſed, and both tumbled together into the Ditch, where the Chriſtian getting the <hi>Turks</hi> Cymiter, ſoon cut off his head.</p>
+            <p>This day a Cannon-bullet from the be<g ref="char:EOLhyphen"/>ſieged ſell upon one of our Demi-Cannon, and breaking the Carriage, turned it over; and it ſuing at the ſame time, killed the Cannoneer and it we more men that were near it.</p>
+            <p>The 16th of <hi>August,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="(16.)"/> we had an account that General <hi>Scultz,</hi> who had began to beſiege <hi>Eſperkes</hi> on the 19th of <hi>July,</hi> had proceeded againſt the place with great advantage, that he had finiſhed many Batteries; and notwith<g ref="char:EOLhyphen"/>ſtanding, the beſieged as yet made a reſolute defence, in hopes of <hi>Teckiley</hi>'s coming to re<g ref="char:EOLhyphen"/>lieve them, who was aſſembling Forces for that purpoſe at <hi>Caſchaw,</hi> yet they queſtioned
+<pb n="45" facs="tcp:98855:28"/>not taking the Town in a ſhort time. We had at the ſame time advice, that General <hi>Leſlie</hi> underſtanding that the <hi>Turks</hi> had left but four thouſand men to defend the Bridge of <hi>Eſſeck,</hi> the reſt being gone with the Seraſquier Baſſa to fight the Imperialiſts, decamped from the place of his Rendezvouz near the <hi>Drave,</hi> on <hi>July</hi> the 28th, with a reſolution, if poſſible, to burn the Bridge of <hi>Eſſeck.</hi>
+            </p>
+            <p>In the mean time we continued to puſh on the Siege of <hi>Newheuſel</hi> with all Vigour imagi<g ref="char:EOLhyphen"/>nable, and were now preparing ſome more Mines, which when finiſhed, we reſolved on a general Aſſault; but theſe Mines proved more tedious than we expected for they with<g ref="char:EOLhyphen"/>in ſo peſtred our Workmen with fired Pitch and Tar, and Hand-Granadoes, that they made our men very cautious, and conſequently tedious.</p>
+            <p>On the 17th of <hi>August,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="(17.)"/> we had an account from the Duke of <hi>Lorrain,</hi> That on the 12th inſtant they had come in view of the Turkiſh Army before <hi>Gran,</hi> and that upon ſight of him the Seraſquier Baſſa had left <hi>Gran,</hi> and that the two Armies ſtood in view of each o<g ref="char:EOLhyphen"/>ther for two days, without any Action; and
+<pb n="46" facs="tcp:98855:29"/>that on the 14th a Renegado-Chriſtian who had for ſome time ſerved the <hi>Turks,</hi> came in<g ref="char:EOLhyphen"/>to the Imperial Army, and told them, That the <hi>Turks</hi> thinking themſelves ſtronger in men and Arms, had reſolved to attack the Chri<g ref="char:EOLhyphen"/>ſtians; whereupon the Duke of <hi>Lorrain</hi> re<g ref="char:EOLhyphen"/>treated a little that night for a more conve<g ref="char:EOLhyphen"/>nient Station; which confirming the <hi>Turks</hi> in the foreſaid Opinion, they preſently decam<g ref="char:EOLhyphen"/>ped, thinking to ſurprize the Imperialiſts in their Retreat: but this proved a great Errour, the Imperialiſts being drawn up in good or<g ref="char:EOLhyphen"/>der. However, with their uſual Shouts they charged the Imperialiſts, but were very firm<g ref="char:EOLhyphen"/>ly received, firſt by Colonel <hi>Heuſler,</hi> who had the Vanguard, and the Elector of <hi>Bavaria</hi> who commanded the right Wing, and afterwards by the Duke of <hi>Lorrain,</hi> who had the left Wing; ſo that the Fight continued not long upon equal Terms: for the Duke of <hi>Lorrain</hi> having before ordered all his Cannon, which were about forty two, in a good poſture, and charged with ſmall Shot, made his men open to the right and left, and fired upon the E<g ref="char:EOLhyphen"/>nemy with a full Volley, which killed vaſt numbers; and having repeated the ſame once more, the Enemy preſently betook themſelves
+<pb n="47" facs="tcp:98855:29"/>to their heels, and fled to their Camp. He could give us no more account, by reaſon of his quick departure after the Battel.</p>
+            <p>This day we ſprang a Mine on the right ſide the Baſtion at (4) but to our own prejudice: for it not being well ſtopped, brake out upon our men, of which it killed five, and ſet fire to the Gallery that was near; ſo that we had enough to do to put it out.</p>
+            <p>
+               <hi>August</hi> the 18th, <milestone type="tcpmilestone" unit="unspecified" n="(18.)"/> we began to play very warmly with our Guns and Mortars from all parts which had before been idle for ſome time, and about ten this morning we ſprang a new Mine under the Baſtion at (4) which had ſo good effect, that it levelled that place with the Ditch which was filled up, and the Breach was ſo broad, that three men might go in a breaſt. We had alſo three more Mines about the Baſtion at (Z) which were ready almoſt. And things being in ſo fair a po<g ref="char:EOLhyphen"/>ſture, General <hi>Caprara</hi> and the Duke <hi>de Groy</hi> having called a Council of War, reſolved next day upon a general Aſſault, and ſent their Commands into all Quarters to provide accor<g ref="char:EOLhyphen"/>dingly.</p>
+            <pb n="48" facs="tcp:98855:30"/>
+            <p> In the moan time they within, though they were weak, were not idle; for they continu<g ref="char:EOLhyphen"/>ally fired ſo warmly from their Batteries, that this day they diſmounted many of our Can<g ref="char:EOLhyphen"/>non; ſo that we had buſineſs enough to re<g ref="char:EOLhyphen"/>pait them againſt the next day. They alſo killed us Captain <hi>Feluck</hi> of the Regiment of <hi>Caprara,</hi> and above forty common Soul<g ref="char:EOLhyphen"/>diers.</p>
+            <p>Upon the 19th of <hi>August,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="(19.)"/> about eight a Clock in the morning, having before prepa<g ref="char:EOLhyphen"/>red all things for the purpoſe, we firſt ſprang the forementioned Mines about the Baſtion at (Z) and the Curtain between that and (E), which though they had not their wi<g ref="char:EOLhyphen"/>ſhed for effect, which was to ruine ſome Re<g ref="char:EOLhyphen"/>trenchments of the beſieged, yet they did us the kindneſs much to facilitate our Aſſault, by opening us a Gap twelve foot wide, and of pretty eaſie aſcent. We immediately fired upon the Town from all Quarters, which put them within into ſuch a conſternation, that for a while ſcarce a man durſt appear: We played alſo with our Carcaſſes and Bombs, and made uſe of all things poſſible to annoy the beſieged. During which Tempeſt, the Count
+<pb n="49" facs="tcp:98855:30"/>
+               <hi>de Scherſſenberg</hi> was the firſt that entered the Town on the right ſide the Baſtion (E); the Sieur <hi>Rummel</hi> about the ſame time puſh<g ref="char:EOLhyphen"/>ing in at the new Breaches, a little on the left; and the General <hi>Dumont,</hi> who commanded the <hi>Lunenburghers,</hi> backt the Aſſault. In the mean time the beſieged, the firſt thing they did, ſet up two white Flags upon their Re<g ref="char:EOLhyphen"/>trenchments, intimating thereby, that they would ſurrender upon Condition. But our men were now ſo eager, that there was no bri<g ref="char:EOLhyphen"/>dling them: They immediately mounted the new Retrenchments, and there found a little oppoſition, but it was ſoon quelled; and the reſt of the <hi>Turks</hi> houſing themſelves, our men ruſhed all into the Town, and put all they could find to the Sword; onely <hi>Haſſan</hi> the Baſſa was brought by Captain <hi>Traſh</hi> to Gene<g ref="char:EOLhyphen"/>ral <hi>Caprara,</hi> though wounded deſperately in the head and breaſt; about ten more of the chief Officers were ſaved: And there was in all killed at the taking of the place, two thou<g ref="char:EOLhyphen"/>ſand men. Of our ſide there was not one man of Note killed, onely two Lieutenants, and a<g ref="char:EOLhyphen"/>bout a hundred common Souldiers. They had in the place vaſt quantities of Ammunition and Proviſions, and ſeventy five Pieces of Cannon,
+<pb n="50" facs="tcp:98855:31"/>which we had all diſmounted but ſix. They might have held out longer, but their Spirits were damped by having no proſpect of relief. We underſtood that the Garriſon at firſt conſi<g ref="char:EOLhyphen"/>ſted of three thouſand five hundred men, and that beſides theſe, there had been ſlain fifteen hundred of the Inhabitants. And truly I be<g ref="char:EOLhyphen"/>lieve that from the beginning of the Siege, we loſt near as many. We releaſed very many Chriſtian Slaves from their Impriſonment and Irons, and gave all the Riches of the place for Pillage to the Souldiers.</p>
+            <p>The Count <hi>de Scherffenberg</hi> was immediately ſent to acquaint the Emperour herewith: and this day the Prince of <hi>Comercy</hi> arrived here, going alſo to acquaint the Emperour with the Defeat of the Turkiſh Army near <hi>Gran.</hi>
+            </p>
+            <p>
+               <hi>August</hi> the 20th, <milestone type="tcpmilestone" unit="unspecified" n="(20.)"/> Several Gentlemen that were Volunteers in the Duke of <hi>Lorrain</hi>'s Ar<g ref="char:EOLhyphen"/>my, arrived here, and gave us a more full ac<g ref="char:EOLhyphen"/>count of the <hi>Turks</hi> Defeat, and of the Siege of <hi>Gran,</hi> which coſt the <hi>Turks</hi> between three and four thouſand men, in fifteen days; and that the Garriſon had not loſt a thouſand. That the place was battered in many places, about which they were now employed in the re<g ref="char:EOLhyphen"/>pairing.
+<pb n="51" facs="tcp:98855:31"/>That after the great Fight with the Seraſquier, in which there was near ſix thou<g ref="char:EOLhyphen"/>ſand. <hi>Turks</hi> killed, the Chriſtians purſued them very cloſe, cutting all Oppoſers in pieces, and immediately entered their Camp, which was ſoon abandoned by the Enemy. That in the Camp all their Baggage and Artillery, being twenty five Pieces of Cannon, and ſix Mor<g ref="char:EOLhyphen"/>tars, was left by the Enemy for a Prey to our Conquering Army: And that in this notable and wonderful Victory, the Chriſtians loſt not two hundred men; amongſt which was no Perſon of Note, onely the Sieur <hi>Van Dingen,</hi> General of the Troops of <hi>Franconia,</hi> received a ſlight Wound. The Baron <hi>de Mercy,</hi> Colonel <hi>Heuſler,</hi> and Count <hi>Stirum,</hi> were ſent in purſuit of them; with the <hi>Hungarians,</hi> who were com<g ref="char:EOLhyphen"/>manded by the Count <hi>de Eſterhaſt;</hi> and the <hi>Croats,</hi> who had a great part in the honour of this great Action. There was alſo ſent in pur<g ref="char:EOLhyphen"/>ſuit of the <hi>Turks,</hi> a Detachment of Cuiraſſiers and Dragoons, under the command of the fore<g ref="char:EOLhyphen"/>named Perſons.</p>
+            <p>They told us moreover, that whilſt the <hi>Turks</hi> beſieged <hi>Gran,</hi> the Seraſuier had ſent twelve thouſand to attack our Garriſon of <hi>Vicegrad,</hi> in which Garriſon there was but three
+<pb n="52" facs="tcp:98855:32"/>hundred, yet they withſtood this great Force for ſome time; but upon the loſs of many of their men, they were forced to capitu<g ref="char:EOLhyphen"/>late, and agreed to relinquiſh the Garriſon, and take with them their Arms and Baggage, and thereupon came over the <hi>Danube</hi> to the Imperial Army. They likewiſe adviſed us, that the <hi>Turks</hi> being beaten, the Duke of <hi>Lor<g ref="char:EOLhyphen"/>rain</hi> was making towards us with a deſigne firſt, if poſſible, to take <hi>Newheuſel,</hi> (in which we had prevented him) and afterwards, to march againſt the Seraſquier, who had paſſed the <hi>Danube</hi> at <hi>Buda.</hi>
+            </p>
+            <p>
+               <hi>August</hi> the 21ſt. <milestone type="tcpmilestone" unit="unspecified" n="(21.)"/> in the morning ſome of our Souldiers who were wandering about the Town, diſcovered five Souldiers of the <hi>Turks,</hi> who when the Town was taken, got into a Cellar together to hide themſelves, whoſe en<g ref="char:EOLhyphen"/>trance was ſtopped up by the Rubbiſh of ſome Houſes that were burnt; but now the Soul<g ref="char:EOLhyphen"/>diers fury being over, they were onely made Priſoners.</p>
+            <p>This day <hi>Haſſan</hi> the Baſſa of this place, who was a Renegado Native of <hi>Bohemia,</hi> though a man of great Parts and Reſolution, having been always ſerviceable to the <hi>Turks,</hi> died of his
+<pb n="53" facs="tcp:98855:32"/>Wounds, that in his head, which was by a Muſ<g ref="char:EOLhyphen"/>ket-bullet, proving mortal.</p>
+            <p>Our Pioneers had now fuller employment than ever in filling up the Trenches which they had before made, though it was more ſe<g ref="char:EOLhyphen"/>cure. The Country hereabouts was alſo ſum<g ref="char:EOLhyphen"/>moned in by Count <hi>Caprara,</hi> to repair the Walls and Houſes, above two hundred of which had been ruined by our Bombs and Car<g ref="char:EOLhyphen"/>caſſes during the Siege.</p>
+            <p>The 22th day of <hi>August,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="(22.)"/> the General <hi>Ca<g ref="char:EOLhyphen"/>prara,</hi> and the Duke <hi>de Croy,</hi> having given the neceſſary Orders for repairing the Fortifications ruined during the Siege, and demoliſhing the Trenches, as alſo for burying the Dead which lay in vaſt heaps, and having left a Garriſon of three thouſand five hundred men, at preſent under the command of General <hi>Dumont,</hi> till the Emperour ſhould pleaſe to give the govern<g ref="char:EOLhyphen"/>ment of the place to another (which he after<g ref="char:EOLhyphen"/>wards did to Count <hi>Scherffenberg,</hi> who com<g ref="char:EOLhyphen"/>manded the chief Attack, and firſt entered the Town with his Sword in his hand when it was taken) marched with the reſt of their Forces to joyn the Imperial Army, which they did on the 24th near <hi>Comorra,</hi> where the Imperial Army repaſſed the <hi>Danube</hi> that day.</p>
+            <pb n="54" facs="tcp:98855:33"/>
+            <p> We are adviſed from <hi>
+                  <g ref="char:V">Ʋ</g>pper Hungary,</hi> that upon the general Pardon which the Emperour has ſent there, wherein Count <hi>Teckeley</hi> and two more onely are excepted; the Counts Party decreaſes daily, and the Count <hi>Sizmay,</hi> amongſt the reſt, has accepted the Pardon. That at <hi>Eſperies</hi> the beſieged make a very reſolute defence, but yet it was no queſtion but the Town would be gained in a ſhort time: That Count <hi>Teckeley</hi> had ſent five hundred men to re-enforce that Garriſon; but General <hi>Scultz</hi> having notice of it, ſent out a Detachment of a thouſand men under Count <hi>Raſter,</hi> who mee<g ref="char:EOLhyphen"/>ting them, killed three hundred upon the place, and took near a hundred more Priſoners, with little loſs on the Imperial ſide.</p>
+            <p>The Princes <hi>de Conty,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="(25.)"/> and <hi>de la Roche-ſur-Yon,</hi> parted from the Imperial Army, in which I now am, near <hi>Barkan,</hi> on the 25th inſtant, in order to their return home.</p>
+            <p>The 26th inſtant our Scouts brought us in ſeveral Turkiſh Priſoners, <milestone type="tcpmilestone" unit="unspecified" n="(26.)"/> who told us, that the Seraſuier being re-enforced with about five thouſand men and Ammunition, as alſo with Artillery from <hi>Buda,</hi> fearing to return home
+<pb n="55" facs="tcp:98855:33"/>with ſo ill ſucceſs, reſolved upon a ſecond Battel. They told us moreover, that there had been a great buſtle in the Turkiſh Camp, ariſing upon Diſputes about the ill manage<g ref="char:EOLhyphen"/>ment of Affairs in the late Battel, which was the reaſon that ſome of the chief Officers were ſtrangled.</p>
+            <p>From General <hi>Leſlie</hi> we have an account that he has proceeded with all the ſucceſs imagi<g ref="char:EOLhyphen"/>nable in all his Attempts: That he has taken <hi>Michalowitz,</hi> and the Town of <hi>Eſſeck,</hi> and had burnt the Bridge of <hi>Eſſeck,</hi> from the Town to the <hi>Drave,</hi> which is near eleven hun<g ref="char:EOLhyphen"/>dred paces in length. And all theſe great Actions were performed with the loſs of leſs than a hundred and fifty men. So that the Emperours Forces in all parts have hitherto had wonderful ſucceſs this Summer; which if it be not confined by a Peace with the <hi>Turks,</hi> which is much ſuſpected by the Souldiers, there is no queſtion but in a ſhort time the Empe<g ref="char:EOLhyphen"/>rour, having ſo many brave Commanders, and well experienced Souldiers, by the Bleſſing of Almighty God, may be more Abſolute in <hi>Hun<g ref="char:EOLhyphen"/>gary</hi> than either He or any of his Anceſtors have been for ſome Ages. Neither may he
+<pb n="56" facs="tcp:98855:34"/>be confined there, but to his eternal Honour, may extend his Arms much farther, and by that means, with the aſſiſtance of his Allies, extirpate that Wicked and Diabolical Religion of <hi>Mahomet</hi> even out of <hi>Europe,</hi> and ſo reduce this moſt famous part of the World wholly to Chriſtianity.</p>
+            <closer>
+               <dateline>
+                  <hi>From the Imperial Camp wear</hi> Barkan, <date>Auguſt <hi>the</hi> 27th 1685.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:98855:34"/>
+            <head>Some Books SOLD By <hi>Samuel Crouch</hi> and <hi>John Lawrence.</hi>
+            </head>
+            <p>SEveral Diſcourſes, <hi>viz.</hi> 1. Of Purity and Charity. 2. Of Repentance. 3. Of Seeking firſt the King<g ref="char:EOLhyphen"/>dom of God. By <hi>Hezekiah Burton,</hi> D. D. late Rector of <hi>Barns</hi> near <hi>London,</hi> and Prebendary of <hi>Norwich,</hi> Pub<g ref="char:EOLhyphen"/>liſhed by <hi>John Tillotſon,</hi> D. D. In <hi>Octavo.</hi>
+            </p>
+            <p>Military Duties of the Officers of Cavalry: Contain<g ref="char:EOLhyphen"/>ing the way of Exerciſing the Horſe, according to the Practice of this preſent time. The Motions of Horſe, and the Functions of the ſeveral Officers, from the chief Cap<g ref="char:EOLhyphen"/>tain to the Brigadeer. <hi>Octavo.</hi>
+            </p>
+            <p>Engliſh Military Diſcipline: or, the Way and Method of Exerciſing Horſe and Foot, according to the Practice of this preſent time. With a Treatiſe of all ſorts of Arms and Engines of War; of Fire-work-Engines, and other Military Inſtruments, both Ancient and Modern. <hi>Octavo.</hi>
+            </p>
+            <p>All three ſold by <hi>John Lawrence,</hi> at the Angel in the <hi>Poultry</hi> over againſt the Compter.</p>
+            <p>
+               <hi>Britania Languens,</hi> or a Diſcourſe of Trade: Shew<g ref="char:EOLhyphen"/>ing the Grounds and Reaſons of the Increaſe and Decay of Land-Rents, National Wealth and Strength. With Ap<g ref="char:EOLhyphen"/>plication to the late and preſent State of <hi>England, France,</hi> and the <hi>
+                  <g ref="char:V">Ʋ</g>nited Provinces.</hi> Octavo.</p>
+            <pb facs="tcp:98855:35"/>
+            <p> Advice to the Readers of the Common Prayer, and to the People attending the ſame. With a Preface concern<g ref="char:EOLhyphen"/>ing Divine Worſhip. Humbly offered to conſideration, for promoting the greater Decency and Solemnity in per<g ref="char:EOLhyphen"/>forming the Offices of God's Publick Worſhip. Admi<g ref="char:EOLhyphen"/>niſtred according to the Order eſtabliſhed by Law among us, by a well-meaning (though unlearned) Layick of the Church of <hi>England.</hi> By <hi>T. S. Twelves.</hi>
+            </p>
+            <p>Both ſold by <hi>Sam. Crouch,</hi> at the Flower-de-luce at the corner of <hi>Popes-head-Ally</hi> in <hi>Cornhil.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
